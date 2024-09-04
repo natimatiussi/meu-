@@ -1,4 +1,4 @@
-# meu repositorio seja bem vindo  
+                                                                                                                                                                                                                                                                          # meu repositorio seja bem vindo  
 uso para organização
 function setup() {
   createCanvas(800, 400);
@@ -45,4 +45,13 @@ function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
     } else {
       return "O feitiço do tempo";
     }
-  }
+  }           
+                        html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+
